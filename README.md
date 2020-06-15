@@ -1,15 +1,15 @@
 <p align="center">
-  <img height="96" src="https://fabricadetecnologias.ifc-riodosul.edu.br/almocai/assets/img/logo-verde.svg">
+  <img height="96" src="https://raw.githubusercontent.com/MateuxLucax/almocai/master/assets/img/logo-verde.svg">
 </p>
 
-## O que é?
+## Description
 
-O Almoçaí é um software de administração da refeição, que tem o intuito de diminuir o desperdício de alimento. A ferramenta é acessível tanto para os alunos, que devem confirmar se irão almoçar na instituição, como para servidores que trabalham na cozinha, que a partir de dados obtidos, devem produzir uma quantidade de refeições que satisfaça aos alunos que confirmaram o uso do alimento, possibilitando o planejamento consciente dos recursos disponíveis.
+Almoçaí is a meal management software that aims to reduce food waste. The tool is accessible both to students, who must confirm that they are going to have lunch at the institution, and to servers who work in the kitchen, who, based on the data obtained, must produce an amount of meals that satisfies the students who have confirmed the use of the food, enabling conscious planning of available resources.
 
-## Como funciona?
+## How it works?
 
-O aluno, estando pré cadastrado, poderá inserir suas preferências alimentares, tais como, veganismo ou vegetarianismo, uma vez que especificadas, ficarão salvas no banco de dados. Caso o aluno seja portador de algum tipo de alergia, entrar em contato com a nutricionista. O estudante terá acesso ao cardápio oferecido na semana e assim, todos os dias, até as 10h da manhã, deverá confirmar se irá almoçar no refeitório ou não, assim a quantidade de refeições produzidas será proporcional as confirmações dos alunos.
+The student, being pre-registered, will be able to enter his food preferences, such as veganism or vegetarianism, once specified, they will be saved in the database. If the student has any type of allergy, contact the nutritionist. The student will have access to the menu offered during the week and thus, every day, until 10 am, he must confirm whether he will have lunch in the cafeteria or not, so the quantity of meals produced will be proportional to the confirmation of the students.
 
-## Licença
+## License
 
-Este projeto está sob a licença LGPL-3, olhe o arquivo [LICENSE.md](LICENSE.md) para mais detalhes
+This project is licensed under LGPL-3, see [LICENSE.md](LICENSE.md) for details.
